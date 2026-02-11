@@ -46,3 +46,11 @@ This allowed testing of:
 Main effect of Material
 Main effect of Die Type
 Interaction between Material and Die Type
+
+Valentine.vbs:
+
+A cute little script I wrote for my wife asking her to be my valentine. Saying no creates an endless loop of asking until she says yes.
+
+ValentineEnhanced.vbs:
+
+Removed the endless loop, after several no attempts I say I will take our puppy instead and end the script.
