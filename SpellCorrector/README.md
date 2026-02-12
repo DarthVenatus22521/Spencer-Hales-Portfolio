@@ -1,0 +1,1 @@
+This project takes a .txt file of words and a user-given word with possible incorrect spelling then calculates the best spelling of the word to return, or just return the original word if it is spelled correctly.
